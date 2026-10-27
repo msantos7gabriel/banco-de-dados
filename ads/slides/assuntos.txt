@@ -1,0 +1,14 @@
+Introdução a BD - Estudado 
+ER e EER - Estudado
+Diagrama ER
+Entidade relacional
+Mapeamento 
+
+Sobre a prova: 
+E amanhã, a prova vai ter o formato de duas abertas e três fechadas. 
+Vale 35pts.
+Uma aberta para fazer o diagrama entidade relacionamento e outra o modelo relacional. 
+Avise ao pessoal, por favor.
+Obrigada!
+
+
